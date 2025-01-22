@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Will You Be My Valentine?</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="hello-kitty"></div>
+    <h1>Will you be my Valentine, Jay? ❤️</h1>
+    <p>make my day special ( you make my life special)</p>
+    <div>
+        <button id="yesButton">Yes</button>
+        <button id="noButton">No</button>
+    </div>
+    <div id="message"></div>
+    <footer>Designed with ❤️ by Amir</footer>
+    <script src="script.js"></script>
+</body>
+</html>
